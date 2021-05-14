@@ -27,5 +27,6 @@ Train400.zip contains 400 Training Images.
 
 
 Test.zip has 2 dataset for Testing
-> BSD68 - which has 68 images.
-> Set12 - popular 12 images used in Image processing.
+1) BSD68 - which has 68 images.
+2) Set12 - popular 12 images used in Image processing. 
+
