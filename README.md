@@ -21,3 +21,11 @@ Batch Normalization has following merits:
 
 
 Please find attached some images after denoising using DnCNN model. 
+
+
+> Train400.zip contains 400 Training Images.
+
+
+> Test.zip has 2 dataset for Testing
+> > BSD68 - which has 68 images 
+> > Set12 - popular 12 images used in Image processing
