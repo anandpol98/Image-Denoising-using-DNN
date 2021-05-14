@@ -24,7 +24,7 @@ Please find attached some images after denoising using DnCNN model.
 
 
 Train400.zip contains 400 Training Images.
-
+Model is trained for over 50 epochs.
 
 Test.zip has 2 dataset for Testing
 1) BSD68 - which has 68 images.
